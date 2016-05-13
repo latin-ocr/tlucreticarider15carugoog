@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./tlucreticarider15carugoog_0003.png"; bbox 0 0 863 1329; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 341 768 621 878">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 341 768 621 878">
+     <span class='ocr_line' id='line_1_1' title="bbox 388 768 561 787; baseline -0.006 -4"><span class='ocrx_word' id='word_1_1' title='bbox 388 769 429 783; x_wconf 60' lang='lat' dir='ltr'>from</span> <span class='ocrx_word' id='word_1_2' title='bbox 440 768 466 783; x_wconf 63' lang='lat' dir='ltr'>vhe</span> <span class='ocrx_word' id='word_1_3' title='bbox 478 769 535 787; x_wconf 52' lang='lat' dir='ltr'>mmm</span> <span class='ocrx_word' id='word_1_4' title='bbox 545 768 561 783; x_wconf 58' lang='lat' dir='ltr'>of</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 366 796 582 810; baseline 0.005 -1"><span class='ocrx_word' id='word_1_5' title='bbox 366 796 421 810; x_wconf 65' lang='grc' dir='ltr'>ΡΗΙῌΡ</span> <span class='ocrx_word' id='word_1_6' title='bbox 431 796 509 810; x_wconf 50' lang='lat' dir='ltr'>mmmm</span> <span class='ocrx_word' id='word_1_7' title='bbox 522 796 582 810; x_wconf 55' lang='lat' dir='ltr'>HARSH</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 427 818 526 833; baseline 0.01 -1"><span class='ocrx_word' id='word_1_8' title='bbox 427 818 526 833; x_wconf 49' lang='grc'>19054960</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 341 841 621 856; baseline 0.004 -1"><span class='ocrx_word' id='word_1_9' title='bbox 341 841 410 855; x_wconf 58' lang='lat' dir='ltr'>mtessos</span> <span class='ocrx_word' id='word_1_10' title='bbox 419 841 513 856; x_wconf 50' lang='lat'>040052105</span> <span class='ocrx_word' id='word_1_11' title='bbox 522 844 538 856; x_wconf 69' lang='lat' dir='ltr'>m</span> <span class='ocrx_word' id='word_1_12' title='bbox 547 841 621 856; x_wconf 60' lang='lat' dir='ltr'>svunfmd</span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 428 864 526 878; baseline 0 0"><span class='ocrx_word' id='word_1_13' title='bbox 428 864 526 878; x_wconf 31' lang='lat'>{93771960</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 92 88 772 1214">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 92 88 772 1214">
+     <span class='ocr_line' id='line_1_6' title="bbox 92 88 772 1214; baseline 0 0"><span class='ocrx_word' id='word_1_14' title='bbox 92 88 772 1214; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
